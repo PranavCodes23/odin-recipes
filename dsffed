@@ -1,0 +1,13 @@
+[33mcommit 16afe4a3f2c00bd5b8d7892b7d6c5bdace1f3200[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Pranav Yadav <227392238+PranavCodes23@users.noreply.github.com>
+Date:   Mon May 18 21:32:50 2026 +0530
+
+    Added index, Rasmalai, pao-bhaji & Shahi-Paneer
+    
+    The commit contains information on creation of index.htm --> creation of recipes --> addition of Rasmalai, pao-bhaji & Shahi-Paneer --> filling each with a photo, description, steps to make. --> adding link to home page on each document.
+
+[33mcommit 791a5eee7f05654a1080db7f36b63c99b1c89683[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: PranavCodes23 <227392238+PranavCodes23@users.noreply.github.com>
+Date:   Mon May 18 17:31:15 2026 +0530
+
+    Initial commit
